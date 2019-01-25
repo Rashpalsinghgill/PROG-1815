@@ -1,0 +1,9 @@
+C:\Users\vs2017\Desktop\Rashpal\Rashpal\bin\Debug\Rashpal.exe.config
+C:\Users\vs2017\Desktop\Rashpal\Rashpal\bin\Debug\Rashpal.exe
+C:\Users\vs2017\Desktop\Rashpal\Rashpal\bin\Debug\Rashpal.pdb
+C:\Users\vs2017\Desktop\Rashpal\Rashpal\obj\Debug\Rashpal.csprojResolveAssemblyReference.cache
+C:\Users\vs2017\Desktop\Rashpal\Rashpal\obj\Debug\Rashpal.Form1.resources
+C:\Users\vs2017\Desktop\Rashpal\Rashpal\obj\Debug\Rashpal.Properties.Resources.resources
+C:\Users\vs2017\Desktop\Rashpal\Rashpal\obj\Debug\Rashpal.csproj.GenerateResource.Cache
+C:\Users\vs2017\Desktop\Rashpal\Rashpal\obj\Debug\Rashpal.exe
+C:\Users\vs2017\Desktop\Rashpal\Rashpal\obj\Debug\Rashpal.pdb
